@@ -1,0 +1,6 @@
+Files under C:\Users\DELL\OneDrive\Documentos\GitHub\Java\Lab_11
+Relative file name | size | last modified
+FolderReport.java | 1795 bytes | modified 2026-10-28T13:30:02.6289055Z
+LogAnalyzer.java | 2856 bytes | modified 2026-10-28T13:30:02.5750487Z
+SerializationDemo.java | 2541 bytes | modified 2026-10-28T13:30:02.5112205Z
+File count: 3
